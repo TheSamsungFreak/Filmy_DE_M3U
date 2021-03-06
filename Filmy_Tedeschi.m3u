@@ -440,13 +440,15 @@ http://5.9.29.179:12000/tedeschi/2021/01/Soul.2020.ger.1080.mkv
 
 #EXTINF:-1 tvg-logo="", NEW Movies Februar 2021 NEW
 
-#EXTINF:-1 tvg-logo="", Bliss
+#EXTINF:-1 tvg-logo="http://de.web.img3.acsta.net/pictures/21/01/13/07/43/4660253.jpg", Bliss
 http://5.9.29.179:12000/tedeschi/2021/02/Bliss.2021.GER.720.mp4
-#EXTINF:-1 tvg-logo="", Der.geheime.Garten
+#EXTINF:-1 tvg-logo="http://de.web.img3.acsta.net/pictures/20/02/21/13/39/0738661.jpg", Der.geheime.Garten
 http://5.9.29.179:12000/tedeschi/2021/02/Der.geheime.Garten.2020.Ger.720.mp4
-#EXTINF:-1 tvg-logo="", Die.Misswahl.Der.Beginn.einer.Revolution
+#EXTINF:-1 tvg-logo="http://de.web.img3.acsta.net/pictures/20/02/19/08/43/1340928.jpg", Die.Misswahl.Der.Beginn.einer.Revolution
 http://5.9.29.179:12000/tedeschi/2021/02/Die.Misswahl.Der.Beginn.einer.Revolution.2020.Ger.720.mp4
-#EXTINF:-1 tvg-logo="", Palmer
+#EXTINF:-1 tvg-logo="https://static.spreeradio.de/img/6393/499277/296000/o/1280/1024/neues-aus-der-welt.jpg", Neues.aus.der.Welt
+http://5.9.29.179:12000/tedeschi/2021/02/Neues.aus.der.Welt.2020.Ger.720.mp4
+#EXTINF:-1 tvg-logo="http://de.web.img3.acsta.net/pictures/20/12/18/10/24/4751126.jpg", Palmer
 http://5.9.29.179:12000/tedeschi/2021/02/Palmer.2021.Ger.720.mp4
 #EXTINF:-1 tvg-logo="", The.Intergalactic.Adventures.of.Max.Cloud
 http://5.9.29.179:12000/tedeschi/2021/02/The.Intergalactic.Adventures.of.Max.Cloud.2020.Ger.DTS.720.mkv
@@ -457,3 +459,9 @@ http://5.9.29.179:12000/tedeschi/2021/02/Waechter.der.Galaxis.2020.Ger.DTS.720.m
 #EXTINF:-1 tvg-logo="", Wonder.Woman.1984
 http://5.9.29.179:12000/tedeschi/2021/02/Wonder.Woman.1984.2020.Ger.720.mp4
 
+#EXTINF:-1 tvg-logo="", NEW Movies Maerz 2021 NEW
+
+#EXTINF:-1 tvg-logo="http://de.web.img3.acsta.net/c_310_420/pictures/21/02/01/15/04/0263461.jpg", Der.Prinz.aus.Zamunda.2
+http://5.9.29.179:12000/tedeschi/2021/03/Der.Prinz.aus.Zamunda.2.2021.GER.720P.mp4
+#EXTINF:-1 tvg-logo="https://www.kino-zeit.de/sites/default/files/2020-10/raya_pakat.jpg", Raya.und.der.letzte.Drache
+http://5.9.29.179:12000/tedeschi/2021/03/Raya.und.der.letzte.Drache.2021.Ger.720p.mp4
