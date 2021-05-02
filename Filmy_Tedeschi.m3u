@@ -1,55 +1,56 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="", 1917
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u5cmhIjsZENCAb0NCVMQ9lGqlOl.jpg", 1917
 http://5.9.29.179:12000/tedeschi/1917.2019.Ger.720.mkv
-#EXTINF:-1 tvg-logo="", 2067.Kampf.um.die.Zukunft
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3lVVeD9bzo9OzybY66zZ8hx8WFr.jpg", 2067.Kampf.um.die.Zukunft
 http://5.9.29.179:12000/tedeschi/2067.Kampf.um.die.Zukunft.2020.ger.720.dts.mkv
-#EXTINF:-1 tvg-logo="", 21.Bridges
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kDlmrGZROewneCoSwPjKx6Qfown.jpg", 21.Bridges
 http://5.9.29.179:12000/tedeschi/21.Bridges.2019.German.DL.LD.720.mkv
-#EXTINF:-1 tvg-logo="", 22.Bullets
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y1sJkKzvuA9ACmjAGunqQqb9jDm.jpg", 22.Bullets
 http://5.9.29.179:12000/tedeschi/22.Bullets.2010.Ger.1080.mkv
-#EXTINF:-1 tvg-logo="", 3.Engel.fuer.Charlie
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dww4s7635Bqe6cgR7YdjCgq5PvD.jpg", 3.Engel.fuer.Charlie
 http://5.9.29.179:12000/tedeschi/3.Engel.fuer.Charlie.2019.German.DL.AC3.Dubbed.72.mkv
-#EXTINF:-1 tvg-logo="", 365.dni
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cWlO65voqu1tT2l70f0eMwywdpm.jpg", 365.dni
 http://5.9.29.179:12000/tedeschi/365.dni.2020.ger.720.mkv
-#EXTINF:-1 tvg-logo="", 6.underground
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gdYIJDXFKeTDNeYQ4Z2B8whCq5P.jpg", 6.underground
 http://5.9.29.179:12000/tedeschi/6.underground.2019.German.mkv
-#EXTINF:-1 tvg-logo="", A.Private.War
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rsgRF9HTrbXileiauIqeOYsWrfV.jpg", A.Private.War
 http://5.9.29.179:12000/tedeschi/A.Private.War.German.2018.DE.mkv
-#EXTINF:-1 tvg-logo="", A.Score.To.Settle
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4PBwZGBP6ziKuOgHRpbVRyGoqy3.jpg", A.Score.To.Settle
 http://5.9.29.179:12000/tedeschi/A.Score.To.Settle.GERMAN.2019.mkv
-#EXTINF:-1 tvg-logo="", Acceleration.Gegen.die.Zeit
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oHUGnfeI6EmvS1svP3ootyKPjTa.jpg", Acceleration.Gegen.die.Zeit
 http://5.9.29.179:12000/tedeschi/Acceleration.Gegen.die.Zeit.2019.Ger.720.mkv
-#EXTINF:-1 tvg-logo="", Ad.Astra.Zu.den.Sternen
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l4DHLds7hMSdqMsfpUxKzdldn5b.jpg", Ad.Astra.Zu.den.Sternen
 http://5.9.29.179:12000/tedeschi/Ad.Astra.Zu.den.Sternen.2019.AC3.1080.mkv
-#EXTINF:-1 tvg-logo="", Aladdin
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vZ9Z4lPPwpLGVtTA9E4zpxRJlEq.jpg", Aladdin
 http://5.9.29.179:12000/tedeschi/Aladdin.2019.Ger.mkv
-#EXTINF:-1 tvg-logo="", Anderson.Falls.Ein.Cop.am.Abgrund
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mDl8RqFwQr0trgVIlXYrxqpqDyo.jpg", Anderson.Falls.Ein.Cop.am.Abgrund
 http://5.9.29.179:12000/tedeschi/Anderson.Falls.Ein.Cop.am.Abgrund.2020.ger.720.mkv
-#EXTINF:-1 tvg-logo="", Angel.Has.Fallen
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ypy6SSrt157JtqpDAgyxPbyEXvx.jpg", Angel.Has.Fallen
 http://5.9.29.179:12000/tedeschi/Angel.Has.Fallen.2019.Ger.mkv
-#EXTINF:-1 tvg-logo="", Angels.Fallen
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7ykk0j8rtUXP8420J0xPLD34sni.jpg", Angels.Fallen
 http://5.9.29.179:12000/tedeschi/Angels.Fallen.2020.Ger.720.mp4
-#EXTINF:-1 tvg-logo="", Angry.Birds.2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/70MShFv0B6U9N7zY54evmd4ch9Z.jpg", Angry.Birds.2
 http://5.9.29.179:12000/tedeschi/Angry.Birds.2.Der.Film.2019.GERMAN.mkv
-#EXTINF:-1 tvg-logo="", Anna
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rgtDDasUXcsjhyj1R0YojUHiERt.jpg", Anna
 http://5.9.29.179:12000/tedeschi/Anna.2019.GERMAN.mkv
-#EXTINF:-1 tvg-logo="", Antebellum
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tYmh36DP4rEmRAr3exAuM9CJTOG.jpg", Antebellum
 http://5.9.29.179:12000/tedeschi/Antebellum.2020.Ger.720.mkv
-#EXTINF:-1 tvg-logo="", Archive
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iKPijh9CeA4acquW6dE2UVGqqjT.jpg", Archive
 http://5.9.29.179:12000/tedeschi/Archive.2020.Ger.720.mkv
-#EXTINF:-1 tvg-logo="", Arkansas
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zT0SdRtoB4cFjTTtvNVdKTpyRn8.jpg", Arkansas
 http://5.9.29.179:12000/tedeschi/Arkansas.2020.Ger.720.mkv
-#EXTINF:-1 tvg-logo="", Arthur.and.Merlin.Ritter.von.Camelot
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yGz59nO2GUh0gg0WJu3gTvB9KhT.jpg", Arthur.and.Merlin.Ritter.von.Camelot
 http://5.9.29.179:12000/tedeschi/Arthur.and.Merlin.Ritter.von.Camelot.2020.Ger.720.mkv
-#EXTINF:-1 tvg-logo="", Avengers.Endgame
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jMrtq1X4JT8iPYbc18k0XmydnqI.jpg", Avengers.Endgame
 http://5.9.29.179:12000/tedeschi/Avengers.Endgame.German.2019.mkv
-#EXTINF:-1 tvg-logo="", Baba.Yaga.Sie.kommen.dich.zu.holen
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/25gZkPdozmR7TKmbql0Lbk9kQLB.jpg", Baba.Yaga.Sie.kommen.dich.zu.holen
 http://5.9.29.179:12000/tedeschi/Baba.Yaga.Sie.kommen.dich.zu.holen.2020.ger.720.mkv
-#EXTINF:-1 tvg-logo="", Bad.Boys.for.Life
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ksJghzOjweRfpAOVbpRVmGPuV4k.jpg", Bad.Boys.for.Life
 http://5.9.29.179:12000/tedeschi/Bad.Boys.for.Life.2020.Ger.AC3.720.mkv
-#EXTINF:-1 tvg-logo="", Berlin.Alexanderplatz
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2ESUxIvbYSO5A0SeZJzMGJpCEyQ.jpg", Berlin.Alexanderplatz
 http://5.9.29.179:12000/tedeschi/Berlin.Alexanderplatz.2020.Ger.720.mkv
+
 #EXTINF:-1 tvg-logo="", Bill.and.Ted.Face.The.Music
 http://5.9.29.179:12000/tedeschi/Bill.and.Ted.Face.The.Music.2020.ger.720.mkv
 #EXTINF:-1 tvg-logo="", Birds.of.Prey.The.Emancipation.of.Harley.Quinn
@@ -482,15 +483,26 @@ http://5.9.29.179:12000/tedeschi/2021/03/Willys.Wonderland.2021.Ger.720.mp4
 
 #EXTINF:-1 tvg-logo="", NEW Movies April 2021 NEW
 
-#EXTINF:-1 tvg-logo="", Kings.of.Hollywood
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ttCdPMQj7nGi9FFZ8eBFFcC291N.jpg", Kings.of.Hollywood
 http://5.9.29.179:12000/tedeschi/2021/04/Kings.of.Hollywood.2021.Ger.720.mp4
-#EXTINF:-1 tvg-logo="", Love.and.Monsters
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r4Lm1XKP0VsTgHX4LG4syAwYA2I.jpg", Love.and.Monsters
 http://5.9.29.179:12000/tedeschi/2021/04/Love.and.Monsters.2020.Ger.720.mp4
-#EXTINF:-1 tvg-logo="", The.2nd.Im.Fadenkreuz.der.Soeldner
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o1WvNhoackad1QiAGRgjJCQ1Trj.jpg", The.2nd.Im.Fadenkreuz.der.Soeldner
 http://5.9.29.179:12000/tedeschi/2021/04/The.2nd.Im.Fadenkreuz.der.Soeldner.2020.Ger.720.mkv
-#EXTINF:-1 tvg-logo="", Thunder.Force
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/duK11VQd4UPDa7UJrgrGx90xJOx.jpg", Thunder.Force
 http://5.9.29.179:12000/tedeschi/2021/04/Thunder.Force.2021.Ger.1080.mp4
-#EXTINF:-1 tvg-logo="", 
+
+#EXTINF:-1 tvg-logo="", NEW Movies April 2021 NEW
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQB2zLQ5ABWG6tUagHiok0PdCcn.jpg", Boss.Level.2021
+http://5.9.29.179:12000/tedeschi/2021/05/Boss.Level.2021.Ger.720.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ao4JajLcPITivfstlzENge3MPkq.jpg", Crisis.2021
+http://5.9.29.179:12000/tedeschi/2021/05/Crisis.2021.Ger.720.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y3SOml74vk7uKGRBkz6G4HR6W9M.jpg", Tom.Clancys.Gnadenlos.2021
+http://5.9.29.179:12000/tedeschi/2021/05/Tom.Clancys.Gnadenlos.2021.ger.1080.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yOczUqbNAiKGBCNrNJhMr5ulIdB.jpg", Tom.and.Jerry.2021
+http://5.9.29.179:12000/tedeschi/2021/05/Tom.and.Jerry.2021.Ger.720.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gn2vCmWO7jQBBto9SYuBHYZARaU.jpg", Voyagers.2021
+http://5.9.29.179:12000/tedeschi/2021/05/Voyagers.2021.Ger.1080.mp4
 
 #EXTINF:-1 tvg-logo="", 
-
